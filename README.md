@@ -1,3 +1,3 @@
 # Pacman Game
 
-### Un juego del legendario Pacman usando puramente JavaScript
+### Un juego del legendario Pacman usando puramente JavaScript 
