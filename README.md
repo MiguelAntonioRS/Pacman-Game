@@ -5,3 +5,6 @@
 ### Instrucciones de Uso
 
   1. Clonar el Repositorio
+    ```bash
+    git clone https://github.com/MiguelAntonioRS/Pacman-Game.git
+    ```
