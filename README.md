@@ -22,3 +22,7 @@ Utiliza las siguientes teclas para controlar a Pacman:
 ### Código Fuente
 
 El código fuente del juego está disponible en el archivo pacman.js. Aquí se encuentra la lógica principal del juego, incluyendo la representación del mapa y el movimiento de Pacman.
+
+### Mapa del Juego
+
+El mapa del juego está definido en el archivo pacman.js y se representa como una matriz donde cada número representa un tipo de celda en el juego:
