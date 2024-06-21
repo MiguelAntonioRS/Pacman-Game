@@ -9,7 +9,7 @@
     
     git clone https://github.com/MiguelAntonioRS/Pacman-Game.git 
 
-  2. Abrir el Juego
+  2. Abrir el Juego.
 
   Abre el archivo index.html en tu navegador web preferido.
 
