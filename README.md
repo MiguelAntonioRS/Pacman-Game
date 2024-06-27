@@ -26,3 +26,13 @@ El código fuente del juego está disponible en el archivo pacman.js. Aquí se e
 ### Mapa del Juego
 
 El mapa del juego está definido en el archivo pacman.js y se representa como una matriz donde cada número representa un tipo de celda en el juego:
+
+* 0: Pared
+
+* 1: Galleta
+
+* 2: Espacio vacío
+
+* 3: Bloque
+
+* 4: Píldora
