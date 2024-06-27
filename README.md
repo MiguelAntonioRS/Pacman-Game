@@ -36,3 +36,13 @@ El mapa del juego está definido en el archivo pacman.js y se representa como un
 * 3: Bloque
 
 * 4: Píldora
+
+  ### Comandos de CMD
+
+    * git clone <URL>: Clona el repositorio en tu máquina local.
+      
+    * cd pacman-js: Cambia al directorio del proyecto.
+      
+    * start index.html: Abre el juego en tu navegador web predeterminado.
+ 
+      
