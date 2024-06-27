@@ -46,3 +46,6 @@ El mapa del juego está definido en el archivo pacman.js y se representa como un
     * start index.html: Abre el juego en tu navegador web predeterminado.
  
       
+### Contribuciones
+
+¡Siéntete libre de contribuir al desarrollo del juego enviando pull requests!
