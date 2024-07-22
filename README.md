@@ -5,7 +5,6 @@
 ### Instrucciones de Uso.
  
   1. Clonar el Repositorio.
-     
     
     git clone https://github.com/MiguelAntonioRS/Pacman-Game.git 
 
