@@ -16,7 +16,7 @@
 
 Utiliza las siguientes teclas para controlar a Pacman:
 
-    Movimiento: Flechas direccionales (↑, ↓, ←, →)
+    Movimiento: Flechas direccionales (↑, ↓, ←, →) 
     
 ### Código Fuente
 
