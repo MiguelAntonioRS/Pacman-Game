@@ -17,7 +17,7 @@
 Utiliza las siguientes teclas para controlar a Pacman:
 
     Movimiento: Flechas direccionales (↑, ↓, ←, →) 
-  
+
 ### Código Fuente
 
 El código fuente del juego está disponible en el archivo pacman.js. Aquí se encuentra la lógica principal del juego, incluyendo la representación del mapa y el movimiento de Pacman.
