@@ -12,7 +12,7 @@
 
   Abre el archivo index.html en tu navegador web preferido.
 
-  3. Controles.
+  3. Controles. 
 
 Utiliza las siguientes teclas para controlar a Pacman: 
 
